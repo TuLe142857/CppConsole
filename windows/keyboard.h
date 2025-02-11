@@ -1,5 +1,5 @@
-#ifndef KEYBOARD_WINDOW
-#define KEYBOARD_WINDOW
+#ifndef KEYBOARD_WINDOWS
+#define KEYBOARD_WINDOWS
 namespace keyboard{
     const int 
         ARROW_CODE = 224,
